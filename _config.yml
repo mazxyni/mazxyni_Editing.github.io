@@ -1,11 +1,11 @@
-title: Brume
-author: Aigars Dzerviniks
-description: It's simple. It's easy to use. It's a Jekyll theme.
+title: PortFolio
+author: 심아진
+description: 심아진's PortFolio
 
 highlighter: null
 permalink: /:title
 
-url:
+url: https://mazxyni.github.io/
 baseurl:
 
 # Custom options:
